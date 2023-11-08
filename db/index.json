@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "thumb": "",
+      "name": "裤子",
+      "price": 200,
+      "count": 1
+    },
+    {
+      "id": 1,
+      "thumb": "",
+      "name": "上衣",
+      "price": 100,
+      "count": 2
+    },
+    {
+      "id": 2,
+      "thumb": "",
+      "name": "裙子",
+      "price": 120,
+      "count": 1
+    }
+  ]
+}
